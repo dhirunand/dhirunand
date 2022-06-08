@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+checkout my resume at https://dhirunand.com/resume.pdf
 <!--
 **dhirunand/dhirunand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
